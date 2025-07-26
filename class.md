@@ -1,6 +1,6 @@
 ## Class Information
-- Name: [Your Name Here]  
-- Certification: [Your Certification Name Here]  
+- Name: Siddhartha Yennamaneni  
+- Certification: Meta FullStack Developer Certificate
 
 ## Instructions
 Please replace the placeholders with your details:
